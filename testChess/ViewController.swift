@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("Test By Rafayel")
     }
 
+    func ankap() {
+        
+    }
 
 }
 
