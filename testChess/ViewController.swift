@@ -19,7 +19,13 @@ class ViewController: UIViewController {
     func ankap() {
         
     }
-    func testXcode() {
+    func testTerminal() {
+        
+    }
+    func testXcode()  {
+        
+    }
+    func AshTest() {
         
     }
 }
