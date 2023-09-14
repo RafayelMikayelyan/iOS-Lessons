@@ -23,9 +23,12 @@ class ViewController: UIViewController {
         
     }
     func testXcode()  {
+<<<<<<< HEAD
         
     }
     func AshTest() {
+=======
+>>>>>>> ce6f1e04b69267d970866fba198a6ac935912e25
         
     }
 }
